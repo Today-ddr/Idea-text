@@ -11,5 +11,6 @@ public class test {
         System.out.println("11");
         System.out.println("11");
         System.out.println("push");
+        System.out.println("pull");
     }
 }
